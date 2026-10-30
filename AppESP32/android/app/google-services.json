@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "909325866215",
+    "project_id": "appnongnghiep-f9d6f",
+    "storage_bucket": "appnongnghiep-f9d6f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909325866215:android:57972e637fea97fa02be42",
+        "android_client_info": {
+          "package_name": "com.example.appesp32"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "FIREBASE_API_KEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,54 @@
+# ==========================================
+# 1. AppESP32 (Flutter)
+# ==========================================
+AppESP32/build/
+AppESP32/android/build/
+AppESP32/.dart_tool/
+AppESP32/.flutter-plugins*
+AppESP32/.pub-cache/
+AppESP32/.pub/
+AppESP32/.idea/
+AppESP32/*.iml
+AppESP32/android/.gradle/
+AppESP32/android/local.properties
+AppESP32/fix_*.py
+AppESP32/temp_*.txt
+AppESP32/replace_*.py
+
+# ==========================================
+# 2. esp32_agrr (PlatformIO)
+# ==========================================
+esp32_agrr/.pio/
+esp32_agrr/.vscode/
+esp32_agrr/*.py
+esp32_agrr/temp_*.txt
+
+# ==========================================
+# 3. stm32 node (Keil MDK-ARM & STM32CubeMX)
+# ==========================================
+# File rác biên dịch của Keil
+*.o
+*.d
+*.crf
+*.axf
+*.hex
+*.bin
+*.htm
+*.build_log.htm
+*.dep
+*.lnp
+*.map
+*.lst
+*.sct
+# Cấu hình giao diện cá nhân người dùng của Keil
+*.uvguix.*
+*.uvoptx
+DebugConfig/
+RTE/
+
+# ==========================================
+# File hệ thống & IDE chung
+# ==========================================
+.DS_Store
+Thumbs.db
+*.log
