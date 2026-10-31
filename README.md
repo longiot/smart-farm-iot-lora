@@ -77,4 +77,4 @@ graph TD
 ---
 
 ## 📄 License
-Dự án được phát triển phục vụ mục đích nghiên cứu, học tập và ứng dụng nông nghiệp công nghệ cao.
+Dự án được phát triển phục vụ mục đích nghiên cứu và học tập.
